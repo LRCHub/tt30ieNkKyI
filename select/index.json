@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "0 (zero)",
+  "base_artist": "LMYK",
+  "createdAt": "2025-12-09T11:38:24.413577Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "5-1-5-0",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/01_5-1-5-0_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Macadam 3, 2, 1, 0",
+      "artist": "Riff",
+      "has_synced": false,
+      "path": "select/02_Macadam_3,_2,_1,_0_Riff.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "0 Robota",
+      "artist": "Dendemann",
+      "has_synced": true,
+      "path": "select/03_0_Robota_Dendemann.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "0 Robota",
+      "artist": "Dendemann",
+      "has_synced": false,
+      "path": "select/04_0_Robota_Dendemann.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "1:0 Für Babylon",
+      "artist": "Beginner",
+      "has_synced": true,
+      "path": "select/05_1_0_Für_Babylon_Beginner.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "1-0 Für Babylon",
+      "artist": "Absolute Beginner",
+      "has_synced": true,
+      "path": "select/06_1-0_Für_Babylon_Absolute_Beginner.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blue Jeans 2.0",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/07_Blue_Jeans_2.0_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blue Jeans 2.0",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/08_Blue_Jeans_2.0_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "0 To 100 / The Catch Up",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/09_0_To_100___The_Catch_Up_Drake.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dear God 2.0",
+      "artist": "The Roots feat. Monsters Of Folk",
+      "has_synced": true,
+      "path": "select/10_Dear_God_2.0_The_Roots_feat._Monsters_Of_Folk.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dear God 2.0 (Feat. Monsters Of Folk)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/11_Dear_God_2.0_(Feat._Monsters_Of_Folk)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "1st & 10 (Feat. Infamous 2-0 & Fate Wilson)",
+      "artist": "Ludacris",
+      "has_synced": false,
+      "path": "select/12_1st_&_10_(Feat._Infamous_2-0_&_Fate_Wilson)_Ludacris.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stumpf ist Trumpf 3.0",
+      "artist": "Dendemann",
+      "has_synced": false,
+      "path": "select/13_Stumpf_ist_Trumpf_3.0_Dendemann.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Seed (2.0)",
+      "artist": "The Roots & Cody ChesnuTT",
+      "has_synced": false,
+      "path": "select/14_The_Seed_(2.0)_The_Roots_&_Cody_ChesnuTT.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Jackie Boy 2.0",
+      "artist": "Zeds Dead feat. Omar LinX",
+      "has_synced": true,
+      "path": "select/15_Jackie_Boy_2.0_Zeds_Dead_feat._Omar_LinX.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Jackie Boy 2.0",
+      "artist": "Zeds Dead & Omar LinX",
+      "has_synced": true,
+      "path": "select/16_Jackie_Boy_2.0_Zeds_Dead_&_Omar_LinX.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "6-0-3",
+      "artist": "Lali Puna",
+      "has_synced": false,
+      "path": "select/17_6-0-3_Lali_Puna.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "0 (zero)",
+      "artist": "LMYK",
+      "has_synced": false,
+      "path": "select/pl_01_0_(zero)_LMYK.txt"
+    }
+  ]
+}
